@@ -1,0 +1,5 @@
+Pillow
+ipykernel
+opencv-python
+numpy
+scikit-image
